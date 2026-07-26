@@ -85,11 +85,14 @@ Estas obras costumam focar em políticas públicas, desigualdade e crises econô
 *   **The Accidental Theorist and Other Dispatches from the Dismal Science** (1998).
 *   **The Return of Depression Economics** (1999).
 *   **Fuzzy Math: The Essential Guide to the Bush Tax Plan** (2001).
-*   **The Great Unraveling: Losing Our Way in the New Century** (2003) – Publicado no Brasil como *A Desintegração Americana*.
-*   **The Conscience of a Liberal** (2007) – Publicado em português como *A Consciência de um Liberal*.
+*   [**The Great Unraveling: Losing Our Way in the New Century** (2003) – Publicado no Brasil como *A Desintegração Americana*.](https://www.amazon.com.br/Great-Unravelling-Paul-Krugman/dp/0393058506/ref=pd_bxgy_thbs_d_sccl_2/142-8424058-4141246?pd_rd_w=OP126&content-id=amzn1.sym.ea5263f5-901f-4a74-9b73-3fc0e530788d&pf_rd_p=ea5263f5-901f-4a74-9b73-3fc0e530788d&pf_rd_r=49W4GFRVJZNYWF7FYNYT&pd_rd_wg=2L0aA&pd_rd_r=bd6955a4-3262-4cdb-80a6-92807599bb42&pd_rd_i=0393058506&psc=1)
+  ![Static Badge](https://m.media-amazon.com/images/I/91TJ97J9rLL._SL1500_.jpg)
+*   [**The Conscience of a Liberal** (2007) – Publicado em português como *A Consciência de um Liberal*.](https://www.amazon.com.br/Conscience-Liberal-Paul-Krugman/dp/0393060691)
+    ![Static Badge](https://m.media-amazon.com/images/I/91kZRHDoJYL._SL1500_.jpg)
 *   **The Return of Depression Economics and the Crisis of 2008** (2008) – Edição atualizada de sua obra de 1999; no Brasil, *A Crise de 2008 e a Economia da Depressão*.
 *   **End This Depression Now!** (2012) – No Brasil, *Um Basta à Depressão Econômica!* e em Portugal, *Acabem com esta Crise Já!*.
-*   **Arguing with Zombies: Economics, Politics, and the Fight for a Better Future** (2020).
+*   [**Arguing with Zombies: Economics, Politics, and the Fight for a Better Future** (2020).](https://www.amazon.com.br/Arguing-Zombies-Economics-Politics-Better/dp/0393541320/ref=pd_bxgy_thbs_d_sccl_1/142-8424058-4141246?pd_rd_w=OP126&content-id=amzn1.sym.ea5263f5-901f-4a74-9b73-3fc0e530788d&pf_rd_p=ea5263f5-901f-4a74-9b73-3fc0e530788d&pf_rd_r=49W4GFRVJZNYWF7FYNYT&pd_rd_wg=2L0aA&pd_rd_r=bd6955a4-3262-4cdb-80a6-92807599bb42&pd_rd_i=0393541320&psc=1)
+    ![Static Badge](https://m.media-amazon.com/images/I/71l6fa-l4-L._SL1200_.jpg)
 
 ### Livros Acadêmicos (Autoria ou Coautoria)
 Obras fundamentais para o desenvolvimento da Nova Teoria do Comércio e da Nova Geografia Econômica:
