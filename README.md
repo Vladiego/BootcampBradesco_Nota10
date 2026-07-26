@@ -127,3 +127,19 @@ Krugman também atuou como editor ou coeditor em diversas compilações acadêmi
 *   **Currency Crises** (2000).
 
 
+### Perguntas EXTRAS: Com base nos eventos recentes e nas análises de Paul Krugman presentes nas fontes, aqui estão cinco perguntas sobre atualidades que envolvem suas teorias econômicas:
+
+1. **Como a Nova Teoria do Comércio de Krugman invalida a acusação de "prática comercial desleal" feita pelos EUA contra o Pix?**  
+Krugman argumenta que o sucesso do Pix decorre de ser um produto público **mais barato e eficiente**, o que amplia a concorrência em vez de configurar uma vantagem indevida. Para ele, a tentativa do governo Trump de punir o Brasil por meio de um **tarifaço de 25%** não possui base econômica sólida e ignora que o comércio entre países semelhantes deve focar na eficiência e na variedade para o consumidor.
+
+2. **Por que Krugman considera a resistência política à energia limpa nos EUA uma "guerra ao futuro"?**  
+O economista afirma que tecnologias como energia solar, eólica e baterias já são **mais baratas que combustíveis fósseis**, mas sofrem oposição por contrariarem a ideologia de oligarcas e uma visão romântica de "masculinidade" ligada ao petróleo. Ele alerta que, enquanto os EUA tornam-se "atrasados", a **China está monopolizando as tecnologias do século 21**, o que pode isolar a economia americana a longo prazo.
+
+3. **De que maneira o sucesso do Pix e o projeto do euro digital para 2029 podem desafiar a hegemonia do dólar?**  
+Krugman observa que, embora o Brasil seja um ator pequeno para impactar o sistema global sozinho, a proliferação de sistemas de pagamentos eficientes e a criação de um **euro digital** podem levar transações internacionais a ignorar o sistema financeiro dos EUA. Ele critica a resistência política americana à criação de um **dólar digital**, sugerindo que o medo dos grupos de interesse é que tal ferramenta funcione "bem demais".
+
+4. **Como o "Choque da China" alterou a visão de Krugman sobre os custos reais da globalização?**  
+Recentemente, Krugman admitiu que os modelos usados nos anos 90 **subestimaram o impacto negativo** do comércio com países de baixos salários sobre a desigualdade e os empregos industriais em nações desenvolvidas. Ele reconhece que, embora o livre comércio beneficie as nações no agregado, os custos de transição para comunidades específicas são **profundos, duradouros e marcados por fricções** que a teoria clássica não previu totalmente.
+
+5. **Qual é a relação entre a saída de Krugman do *The New York Times* e sua necessidade de analisar temas como a "economia das tarifas" de forma independente?**  
+Krugman deixou o jornal em dezembro de 2024 após alegar que a edição de seus textos tornou-se **intrusiva**, tentando "atenuar sua voz" e impor uma "falsa equivalência" em discussões políticas e econômicas. Agora no **Substack**, ele busca liberdade total para usar dados e gráficos para explicar temas complexos de atualidade, como os mecanismos econômicos das tarifas e a **ascensão das modernas oligarquias**.
